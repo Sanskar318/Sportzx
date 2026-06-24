@@ -227,10 +227,10 @@ https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 https://inproviszon.st/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300telemundo4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TELEMUNDO 4K)
-https://wc.xyzcloud3.xyz:2053/tele4k/index.m3u8
+https://lb.xyzcloud3.xyz/tele4k/index.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300tsnsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (TSN SPORTS 4K)
-https://xyzcloud3.xyz/tsn4k/index.m3u8
+https://lb.xyzcloud3.xyz/tsn4k/index.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -249,6 +249,9 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="scotlandvsbrazil2300arabiclivehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (ARABIC LIVE HD)
+https://lb.xyzcloud3.xyz/tod1/index.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300sportzxlive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Scotland vs Brazil 23:00 (SportzX Live)
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
@@ -365,6 +368,9 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-id="moroccovshaiti2300foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (FOX SPORTS 4K)
 https://lb.xyzcloud3.xyz/fs14k/index.m3u8
 
+#EXTINF:-1 tvg-id="moroccovshaiti2300fs14klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (FS1 4K LIVE)
+https://inproviszon.st/fox-sports-1-4k.m3u8
+
 #EXTINF:-1 tvg-id="moroccovshaiti2300nbcuniverso4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (NBC UNIVERSO 4K)
 https://lb.xyzcloud3.xyz/tele4k2/index.m3u8
 
@@ -380,6 +386,9 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 
 #EXTINF:-1 tvg-id="moroccovshaiti2300irib4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moroccovshaiti2300arabiclivehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (ARABIC LIVE HD)
+https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
 
 #EXTINF:-1 tvg-id="moroccovshaiti2300daznspanish" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Morocco vs Haiti 23:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
@@ -442,6 +451,11 @@ https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="czechiavsmexico0200tudnvixfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TUDN ViX FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
 #EXTINF:-1 tvg-id="czechiavsmexico0200dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (D Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
@@ -452,41 +466,28 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TSN SPORTS HD)
-https://obeliskadefat.s3.us-west-2.amazonaws.com/btsport.m3u8
+#EXTINF:-1 tvg-id="czechiavsmexico0200foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (FOX ONE HD)
+https://lb.xyzcloud3.xyz/FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (D Sports FHD)
+#EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tudnvixfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TUDN ViX FHD)
+#EXTINF:-1 tvg-id="czechiavsmexico0200foxonefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200telemundofhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TELEMUNDO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200rtbsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (RTB SPORTS FHD)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportsalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (TSN SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200foxonefhdalt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (FOX ONE FHD  ALT )
+#EXTINF:-1 tvg-id="czechiavsmexico0200foxonealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (FOX ONE  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (CAZE TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200sportvbrfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Czechia vs Mexico 02:00 (SporTV BR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
